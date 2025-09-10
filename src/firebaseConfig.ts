@@ -1,5 +1,5 @@
-// Firebase Configuration
-import { initializeApp } from 'firebase/app';
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
 import { getFirestore } from 'firebase/firestore';
 import { getAuth } from 'firebase/auth';
 import { getStorage } from 'firebase/storage';
@@ -12,9 +12,9 @@ const firebaseConfig = {
   projectId: "lmvs-86b43",
   storageBucket: "lmvs-86b43.firebasestorage.app",
   messagingSenderId: "398663269859",
-  appId: "1:398663269859:web:8a49cbc3615b4add0474d6"
-};            
-    
+  appId: "1:398663269859:web:8a49cbc3615b4add0474d6",
+};
+
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 

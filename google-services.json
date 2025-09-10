@@ -1,29 +1,49 @@
 {
-    "project_info": {
-      "project_number": "398663269859",
-      "project_id": "lmvs-86b43",
-      "storage_bucket": "lmvs-86b43.firebasestorage.app"
-    },
-    "client": [
-      {
-        "client_info": {
-          "mobilesdk_app_id": "1:398663269859:android:b86a1574c49c21540474d6",
-          "android_client_info": {
-            "package_name": "MatLMVs.com"
-          }
-        },
-        "oauth_client": [],
-        "api_key": [
-          {
-            "current_key": "AIzaSyCjTCWf4QPovnyuGwp809ta3igHwDCmMAo"
-          }
-        ],
-        "services": {
-          "appinvite_service": {
-            "other_platform_oauth_client": []
-          }
+  "project_info": {
+    "project_number": "398663269859",
+    "firebase_url": "https://lmvs-86b43-default-rtdb.firebaseio.com",
+    "project_id": "lmvs-86b43",
+    "storage_bucket": "lmvs-86b43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398663269859:android:0d67ea35eff00e140474d6",
+        "android_client_info": {
+          "package_name": "Assets.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjTCWf4QPovnyuGwp809ta3igHwDCmMAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
         }
       }
-    ],
-    "configuration_version": "1"
-  }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398663269859:android:b86a1574c49c21540474d6",
+        "android_client_info": {
+          "package_name": "MatLMVs.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjTCWf4QPovnyuGwp809ta3igHwDCmMAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
